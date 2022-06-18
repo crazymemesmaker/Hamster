@@ -1,5 +1,3 @@
-Redirect 301 / https://crazymemesmaker.github.io/Hamster/ Cookie.html
-
 RewriteEngine on
 
 
