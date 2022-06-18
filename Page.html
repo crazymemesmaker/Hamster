@@ -4,8 +4,13 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+<fieldset>
 <h2>Who are we</h2>
 <p>We are a group of people that like to give gift and prizes to other people in a legal way!</p>
+</fieldset>
+
+<fieldset>
 <h2>Members</h2>
 
 <table>
@@ -50,6 +55,7 @@
     <td><b>...</b></td>
   </tr>
 </table>
+</fieldset>
 <br>
 
 
@@ -73,6 +79,13 @@ background-color: red;
 }
 tr:nth-child(even) {
  background-color: lightblue;
+ border-color: darkred;
+}
+#customers tr:hover {
+  background-color: #ddd;
+}
+tr:nth-child(odd) {
+ background-color: white;
  border-color: darkred;
 }
 </style>
