@@ -1,5 +1,4 @@
-RewriteCond ^/$ /index.html [L]
-DirectoryIndex Cookie.html
+DirectoryIndex Cookie
 
 RewriteEngine on
 
