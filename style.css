@@ -1,7 +1,5 @@
 fieldset{
   border: 8px solid #333332;
-  width: 500px;
-  height: 300px;
   background-color: #bfbfbf;
 }
 
@@ -11,6 +9,8 @@ fieldset{
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
 }
 
 body {
