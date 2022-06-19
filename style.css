@@ -56,6 +56,6 @@ body {
     background-attachment: fixed;
 }
 
-.bg-image {
+background-image {
 filter: brightness(50%);
 }
